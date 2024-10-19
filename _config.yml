@@ -10,15 +10,7 @@ highlighter: pygments
 permalink: /blog/:year/:month/:day/:title.html
 encoding: utf-8
 # Sections on the "people" page.
-roles:
-  - key: faculty
-    name: 教师 Faculty
-  - key: grad
-    name: 研究生 Graduate Students
-  - key: ugrad
-    name: 本科生 Undergraduate Students
-  - key: collab
-    name: 合作者 Collaborators
+
 
 
 # Number of news stories on the front page.
@@ -36,7 +28,7 @@ collections:
 navigation:
   - title: sss Home
     link: /
-  - title: 科研项目 Research
+  - title: 个人兴趣 
     link: /research.html
-  - title: 论文 Publications
+  - title: 个人空间
     link: /publications.html
