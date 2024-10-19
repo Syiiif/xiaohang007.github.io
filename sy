@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>我的个人网站</title>
+</head>
+
+<body>
+  <h1>欢迎来到我的个人网站</h1>
+  <p>这是一段介绍我自己的文字。</p >
+  < img src="your-image.jpg" alt="描述你的图片">
+</body>
+
+</html>
